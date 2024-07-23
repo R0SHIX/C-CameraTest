@@ -1,0 +1,3 @@
+/home/jbell/cameraTest/build/CMakeFiles/cameraTest.dir
+/home/jbell/cameraTest/build/CMakeFiles/edit_cache.dir
+/home/jbell/cameraTest/build/CMakeFiles/rebuild_cache.dir

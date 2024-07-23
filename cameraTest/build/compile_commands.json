@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jbell/cameraTest/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4  -o CMakeFiles/cameraTest.dir/main.cpp.o -c /home/jbell/cameraTest/main.cpp",
+  "file": "/home/jbell/cameraTest/main.cpp"
+}
+]
