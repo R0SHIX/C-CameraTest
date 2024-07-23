@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
     std::cout << "About to capture video from " <<std::endl;
 
     try{
-        cv::VideoCapture cap (videoPath, cv::CAP_GSTREAMER);
+        cv::VideoCapture cap (0, cv::CAP_GSTREAMER);
         if (!cap.isOpened()) {
             throw std::runtime_error("Unable to open the camera");
             return -1;
